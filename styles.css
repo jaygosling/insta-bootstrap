@@ -1,0 +1,33 @@
+img  .grilled-pic {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+#instafont {
+    font-family: 'Cookie', cursive;
+    font-size: 20px;
+}
+#post-style {
+    font-family: Roboto;
+}
+#post-date {
+    color: gray;
+}
+#comment-box {
+    border: none;
+}
+
+
+.nav-pills li .active {
+    background-color:gray !important;
+    border-radius: 5px;
+}
+.nav-pills button {
+    color: gray;
+}
+
+.nav-pills button:hover {
+    background-color: lightgray;
+    color: white !important;
+    border-radius: 5px;
+}
